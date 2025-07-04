@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 #
+# Run it without downloading..
+# sudo wget -qO- https://raw.githubusercontent.com/KaushalBhatol/script/refs/heads/main/general/gen_wildcard_local.sh sudo bash
+#
 # gen_wildcard_local.sh
 #
 # Creates a self-signed wildcard *.local cert valid for 100 years,
